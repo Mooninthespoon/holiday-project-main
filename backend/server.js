@@ -7,7 +7,7 @@ app.use(cors());
 
 app.get('/',(req,res) => {
 
-    res.send('Backend Server');
+    res.send('Wishing you a Christmas season filled with joy, love, and magic. May your days be merry and bright, and may you feel the warmth and happiness that Christmas brings. With love and festive cheer, Santa Claus');
 
 });
 
