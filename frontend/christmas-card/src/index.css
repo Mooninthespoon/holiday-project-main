@@ -1,13 +1,13 @@
 @font-face{
-  font-family: 'CedarvilleCursive';
-  src: url('./assets/fonts/CedarvilleCursive-Regular.ttf') format('truetype');
+  font-family: 'Aguafina';
+  src: url('./assets/fonts/AguafinaScript-Regular.ttf') format('truetype');
   font-weight:  normal;
   font-style:  normal;
 }
 
 body {
   margin: 0;
-  font-family: 'CedarvilleCursive', sans-serif;
+  font-family: 'Aguafina', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
