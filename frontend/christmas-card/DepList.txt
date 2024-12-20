@@ -6,4 +6,3 @@ npm install react-router-dom --legacy-peer-deps
 
 RUN THE COMMANDS ABOVE
 
-Wishing you a Christmas season filled with joy, love, and magic. May your days be merry and bright, and may you feel the warmth and happiness that Christmas brings. With love and festive cheer, Santa Claus
