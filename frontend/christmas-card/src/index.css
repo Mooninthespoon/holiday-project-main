@@ -1,0 +1,22 @@
+@font-face{
+  font-family: 'CedarvilleCursive';
+  src: url('./assets/fonts/CedarvilleCursive-Regular.ttf') format('truetype');
+  font-weight:  normal;
+  font-style:  normal;
+}
+
+body {
+  margin: 0;
+  font-family: 'CedarvilleCursive', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.font-bold{
+  font-family: 'Playfair Display', cursive;
+}
