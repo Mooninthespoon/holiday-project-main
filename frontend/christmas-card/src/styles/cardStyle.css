@@ -1,0 +1,19 @@
+.main{
+    background-image: url("../assets/background.png") ;
+    background-size: cover;
+    background-position: center;
+}
+
+.card{
+    width: 700px;
+    background-image: url('../assets/red-texture.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+*{
+    font-family:"CedarvilleCursive",cursive ;
+    font-weight: bold;
+    font-size: larger;
+    font-weight: lighter
+}

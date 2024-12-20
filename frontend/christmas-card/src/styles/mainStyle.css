@@ -1,0 +1,11 @@
+.card2{
+    width: 460px;
+    background-image: url("../assets/red-texture.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.main{
+    background-image: url("../assets/background.png");
+    background-size: cover;
+    background-position: center;
+}   
