@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Link, resolvePath } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import '../styles/cardStyle.css'
 import santa from "../assets/santa.png"
 import axios from "axios";
