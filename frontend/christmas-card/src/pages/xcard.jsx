@@ -8,7 +8,7 @@ function CardPage() {
     const [message,setMessage] = useState('');
 
     useEffect(() => {
-        axios.get('http://192.168.0.175:3001/')
+        axios.get('http://localhost:3001/')
             .then(response => setMessage(response.data))
             .catch(error => console.error('Error fetching Xmas Card:',error));
     }, []);
